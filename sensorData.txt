@@ -1,0 +1,13 @@
+{
+    "Wind_Direction": 2.54,
+    "Wind_Speed": 8.87,
+    "Boat_Direction": 334.87,
+    "Boat_Speed": 25.0,
+    "GPS_Coord_Lat": 50.154788,
+    "GPS_Coord_Lon": 13.547891,
+    "Ultraviolet": 105.92,
+    "Light_Resistor": 11.5,
+    "Temperature": 15.0,
+    "Course2Go": 45.8,
+    "Distance2Go": 126
+}
