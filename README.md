@@ -145,7 +145,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 Esteban Chacon - estebanfex@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/estebanfex/virtualBoatAI)
+Project Link: [https://github.com/estebanfex/virtualBoatAI](https://github.com/estebanfex/virtualBoatAI)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
