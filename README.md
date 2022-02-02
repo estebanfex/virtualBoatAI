@@ -64,7 +64,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/estebanfex/virtualBoatAI
+   git clone https://github.com/estebanfex/virtualBoatAI/boatAI
    ```
 2. Install Turtle
    ```sh
